@@ -1,0 +1,17 @@
+{
+  "name": "deck-app",
+  "version": "1.3.3",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "deck": "cmd.js"
+  },
+  "scripts": {
+    "postinstall": "npm i @deck/app@$(node -p 'require(\"./package.json\").version')"
+  },
+  "author": "David Mark Clements",
+  "license": "MIT",
+  "dependencies": {
+    "npm": "^2.0.0"
+  }
+}
