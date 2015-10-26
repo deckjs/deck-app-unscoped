@@ -1,7 +1,7 @@
 {
   "name": "deck-app",
   "version": "1.4.0",
-  "description": "",
+  "description": "This allows a Node 0.10 (or npm 1) users to install `@deck/app`",
   "main": "index.js",
   "bin": {
     "deck": "cmd.js"
@@ -13,5 +13,13 @@
   "license": "MIT",
   "dependencies": {
     "npm": "^2.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nearform/deck-app-unscoped.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nearform/deck-app-unscoped/issues"
+  },
+  "homepage": "https://github.com/nearform/deck-app-unscoped#readme"
 }
