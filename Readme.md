@@ -1,4 +1,4 @@
-# deck-app-unscoped 
+# deck-app
 
 This allows a Node 0.10 (or npm 1) users to install `@deck/app`
 
