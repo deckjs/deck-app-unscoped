@@ -11,6 +11,11 @@ This allows a Node 0.10 (or npm 1) users to install `@deck/app`
 npm i -g deck-app # node .10
 ```
 
+If you're using (or have access to) Node .12 or Node 4 (and therefore npm 2+) you'll be better off installing <https://www.npmjs.com/package/@deck/app>. 
+
+Once installed switching Node versions shouldn't require
+a reinstall anyway. 
+
 ## Ecosystem
 
 To view other pieces of the deck system see <https://github.com/nearform/deck>
