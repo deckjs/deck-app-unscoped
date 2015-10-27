@@ -1,6 +1,6 @@
 {
   "name": "deck-app",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "This allows a Node 0.10 (or npm 1) users to install `@deck/app`",
   "main": "index.js",
   "bin": {
